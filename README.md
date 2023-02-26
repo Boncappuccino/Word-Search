@@ -5,5 +5,7 @@ Hello, I am currently working on a project and I am having trouble with the atta
 Here are the command line arguements which correspond to the names of the txt files:
 
 ./a.out tcnj go < 0505matrix
+
 ./a.out this project is hard < 1520matrix
+
 ./a.out you enjoy this project < 2020matrix
